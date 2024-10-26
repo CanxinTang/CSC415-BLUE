@@ -1,0 +1,6 @@
+# Ignore all hidden files (file name start with '.')
+.*
+
+# keep (exclude) gitignore
+!.gitattributes
+!.gitignore
